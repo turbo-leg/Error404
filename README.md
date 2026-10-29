@@ -2,7 +2,7 @@
 
 A full-stack job board where employers post listings, candidates apply with resumes and cover letters, and admins moderate users, jobs and support tickets.
 
-**Live:** [error404-wheat.vercel.app](https://error404-wheat.vercel.app) · **Design:** [Figma](https://www.figma.com/design/gp5XfhU1UvCCuYPDm965kN/Web-UI?node-id=0-1&p=f&t=WdMoPw9Y1dr6hqgZ-0)
+**Design:** [Figma](https://www.figma.com/design/gp5XfhU1UvCCuYPDm965kN/Web-UI?node-id=0-1&p=f&t=WdMoPw9Y1dr6hqgZ-0)
 
 > Team project for COSC 360 (UBC Okanagan). This is my fork of [NathanIsCoding/Error404](https://github.com/NathanIsCoding/Error404).
 
